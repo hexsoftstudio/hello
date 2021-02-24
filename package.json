@@ -1,4 +1,14 @@
 {
     "name": "@hexsoftstudio/hello",
-    "version": "1.0.0"
+    "version": "1.0.1",
+    "description": "Hello",
+    "license": "MIT",
+    "repository": "hexsoftstudio/hello",
+    "main": "index.js",
+    "keywords": [
+        "hello",
+        "npm",
+        "package",
+        "hexsoftstudio"
+    ]
 }
