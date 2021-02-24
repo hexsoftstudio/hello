@@ -1,15 +1,18 @@
 # @hexsoftstudio/hello
 
-[![npm (scoped)] (https://img.shields.io/npm/v/@hexsoftstudio/hello.svg)]
-(https://github.com/hexsoftstudio/hello)
+[![npm (scoped)](https://img.shields.io/npm/v/@hexsoftstudio/hello.svg)](https://github.com/hexsoftstudio/hello)
 
-Install
+### Install ###
+```
 $ npm install @hexsoftstudio/hello
+```
 
-Usage
+### Usage ###
+```
 const hello = require("@hexsoftstudio/hello");
  
 hello("World!");
-//=> "World!"
- 
+//=> "Hello World!"
+```
+
 Hello World!
